@@ -9,3 +9,4 @@ Sprite animation were provided during the course by https://bevouliin.com/.
 This project is for educational purposes only.
 
 This version of the project is the first iteration of a bigger scale upcoming project. 
+Project is for educational purpose only (Non-commercial).
